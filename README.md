@@ -5,8 +5,6 @@
 **Project:** Marathon II  
 **Project Title:** AUDIO PRE-PROCESSOR  
 
----
-
 ## 📌 Introduction
 
 The advancement in digital signal processing has revolutionized audio applications, allowing the enhancement of sound quality and the implementation of real-time effects. This project aims to design an **Audio Pre-Processor** system capable of applying effects such as:
@@ -18,8 +16,6 @@ The advancement in digital signal processing has revolutionized audio applicatio
 
 The system is designed using **FIR filters** and **FFT** techniques for efficient, high-quality audio processing, suitable for both embedded platforms and standalone audio systems.
 
----
-
 ## 🛠️ Features
 
 - 🎚️ Real-time bass and treble adjustment  
@@ -29,8 +25,6 @@ The system is designed using **FIR filters** and **FFT** techniques for efficien
 - 🧠 Efficient signal processing pipeline  
 - 🧩 Designed for Digital System Design (DSD) course using digital logic principles
 
----
-
 ## 🧱 Tools & Technologies
 
 - **MATLAB** / **Python** for filter design and signal analysis  
@@ -38,7 +32,6 @@ The system is designed using **FIR filters** and **FFT** techniques for efficien
 - **Xilinx Vivado / Quartus** for simulation & FPGA deployment  
 - **Audio codec** (optional) for interfacing with hardware
 
----
 
 ## 🔍 Project Objectives
 
@@ -46,8 +39,6 @@ The system is designed using **FIR filters** and **FFT** techniques for efficien
 - Utilize FFT for frequency domain analysis  
 - Simulate and verify digital designs on FPGA  
 - Ensure real-time performance and audio clarity
-
----
 
 ## 📂 File Structure (suggested)
 
