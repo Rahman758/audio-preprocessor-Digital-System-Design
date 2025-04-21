@@ -42,3 +42,16 @@ The system is designed using **FIR filters** and **FFT** techniques for efficien
 
 ## 📂 File Structure (suggested)
 
+
+## 📜 License
+
+This project is for educational purposes as part of the **Digital System Design** course and is free to use under an open academic license.
+
+
+
+## 🙌 Credits
+
+Team **Waves Maker ▶︎ •၊၊||၊|။||||**  
+Course Instructor: Dr:Rehan Hafiz  
+Institution: Information Technology University
+
